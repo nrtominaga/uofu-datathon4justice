@@ -1,5 +1,7 @@
 # UofU datathon4justice
 
+My code for this datathon is in Datathon.ipnyb.  I wrote the notebook using Google Colab.
+
 This repo contains all of the curated data for the UofU datathon4justice:
 - datathon_lights
 - datathon_crashes
